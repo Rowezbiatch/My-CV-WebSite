@@ -2,7 +2,8 @@ import qrcode
 from PIL import Image
 
 # Url yi ekle
-url = input("")
+url = input("https://denizyalcin-cv.netlify.app
+")
 
 qr = qrcode.QRCode(
     version=1,
