@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const subtitleElement = document.getElementById('subtitle');
     if (subtitleElement) {
-        const texts = ["Full Stack Developer", "AI Enthusiast", "Modern Çözüm Üreticisi"];
+        const texts = ["Full Stack Developer Öğrencisi", "AI Enthusiast", "Modern Çözüm Üreticisi"];
         let textIndex = 0;
         let charIndex = 0;
         let isDeleting = false;
